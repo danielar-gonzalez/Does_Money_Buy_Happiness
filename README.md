@@ -12,3 +12,6 @@ El proyecto **"Does_Money_Buy_Happiness"** tiene como objetivo analizar si exist
 Primero, se cargaron los datos de felicidad y GDP de diversos países. Después, se realizó una visualización gráfica de estos datos para identificar patrones y observar cómo se relacionan. Dado que los valores del GDP son considerablemente altos, se aplicó una **transformación logarítmica (base 10)** para facilitar la interpretación. Luego, se calcularon métricas clave como el **Error Estándar y el Intervalo de Confianza**, que proporcionan información sobre la precisión de las estimaciones. Por último, se evaluó la significancia de la relación entre el GDP y la felicidad mediante pruebas estadísticas.
 
 ### Documentos incluídos en el proyecto:
+- [Reporte en formato ipynb](./Does_Money_Buy_Happiness.ipynb)
+- [Reporte en formato html](./Does_Money_Buy_Happiness.html)
+- [Base de datos](./Felicidad_vs_GDP.csv)
